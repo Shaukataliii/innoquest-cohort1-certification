@@ -1,0 +1,8 @@
+Columns: 
+['Transportation Expense', 'Distance to Work', 'Age', 'Daily Work Load Average', 'Body Mass Index', 'Education', 'Children', 'Pets', 'Reason_1', 'Reason_2', 'Reason_3', 'Reason_4', 'Day', 'Month', 'Weekday']
+
+Mean used to scale: 
+[2.23037500e+02 3.00696429e+01 3.65857143e+01 2.71313466e+02
+ 2.67482143e+01 1.62500000e-01 9.64285714e-01 5.94642857e-01
+ 2.48214286e-01 5.35714286e-03 9.82142857e-02 5.91071429e-01
+ 1.58678571e+01 6.26607143e+00 2.02857143e+00]

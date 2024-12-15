@@ -1,0 +1,15 @@
+Education:
+1: 0
+2, 3, 4: 1
+
+Children:
+0: 0
+1: 1
+2: 2
+3: More than 2
+
+Pets:
+0: 0
+1: 1
+2: 2
+3: More than 2
