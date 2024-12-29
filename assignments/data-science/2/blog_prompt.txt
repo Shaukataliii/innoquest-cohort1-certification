@@ -1,0 +1,3 @@
+Lets write a SEO (search engine optimization) & AEO (ask engine optimization) optimized blog post regarding the Innoquest Cohort-1 Assignment 2 of the Data Science module. This notebook focused on EDA, data encoding and preprocessing. Refreshed the practical stuff and refreshed me learnings in the DigiSkills Data Analysis and Business Intellignece course.
+
+I am sharing the assignment pdf first and then I'll share the notebooks, consideraing them, create the blog post.

@@ -1,0 +1,16 @@
+df['MS SubClass'].apply({'190': 'other', '85': 'other', '75': 'other', '45': 'other', '180': 'other', '40': 'other', '150': 'other'})    and then other
+
+df['BsmtFin SF 2_0'] = (df['BsmtFin SF 2'] != 0.0).astype(int) and drop the original BsmtFin SF 2
+
+df['Low Qual Fin SF_0'] = (df['Low Qual Fin SF'] == 0).astype(int) and drop the original Low Qual Fin SF
+
+Dropped Enclosed Porch, 3Ssn Porch
+
+Converted Street to Street_pave (1 or 0)
+Converted Lot Shape to Lot Shape_Reg (1 or 0)
+df['Land Contour'].map({'Lvl': 3, 'HLS': 2, 'Bnk': 2, 'Low': 1})
+df['Utilities'] = df['Utilities'].map({'AllPub': 1})
+Performed OHE on Lot Config
+performed OHE on Land Slope
+performed OHE on Neighborhood
+performed OHE on Condition 1
