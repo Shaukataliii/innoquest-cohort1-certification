@@ -116,5 +116,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## **Acknowledgements**
 
-Special thanks to the **Innoquest Cohort-1 Machine Learning Module** for the assignment and resources provided.
+Special thanks to the **[Innoquest Cohort-1 Machine Learning Module](https://www.youtube.com/playlist?list=PLMPrtOfPtie9l8wwrdY0rYBLElOm3pQGa)** for the assignment and resources provided.
 
